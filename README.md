@@ -141,7 +141,7 @@ Run:
 
 2. Jenkins build console output showing success
 ![Successfull build status triggering jenkins](outputs/success_jenkins.png)
-![Jenkins build](status.png)
+![Jenkins build](outputs/status.png)
 
 3. GitHub repo with index.html and Jenkinsfile
 ![github files including jenkinsfile and index.html](outputs/github_files.png)
